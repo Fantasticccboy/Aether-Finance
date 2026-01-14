@@ -1,0 +1,7 @@
+{
+  "name": "Aether Finance",
+  "description": "AI-driven autonomous wealth management with a raw wood white aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
